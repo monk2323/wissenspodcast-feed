@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Andys Wissenspodcast</title>
+    <link>https://monk2323.github.io/wissenspodcast-feed/</link>
+    <description>Persönliche Wissensdatenbank als Podcast: Konzepte aus KI und Technik, recherchiert und erklärt.</description>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 08 Oct 2026 05:53:54 +0000</lastBuildDate>
+    <itunes:author>Andy</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Agenten und Harness 5 · Agenten und ihre Werkzeuge</title>
+      <itunes:title>Agenten und ihre Werkzeuge</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Wie Agenten mit der Außenwelt arbeiten: Tool Use und Function Calling als Grundmechanismus, MCP als Standard zum Anbinden von Werkzeugen und Computer Use als Bedienung des Bildschirms per Screenshot und Klick. Die Folge arbeitet die Abgrenzung der drei Begriffe und die Sicherheitsrisiken heraus.
+
+Reihe „Agenten und Harness“, Folge 5. Alle Folgen der Reihe:
+1. Was ist eigentlich ein Agent?
+2. Agent = Modell + Harness
+3. Context Engineering
+4. Kontext im Harness verwalten
+5. Agenten und ihre Werkzeuge
+6. Viele Agenten steuern
+7. Kontrolle im Harness
+8. Agenten messen und verbessern</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-agenten-und-ihre-werkzeuge.mp3" length="3863138" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-agenten-und-ihre-werkzeuge.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 07:53:53 +0200</pubDate>
+      <itunes:duration>00:08:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Agenten und Harness 4 · Kontext im Harness verwalten</title>
+      <itunes:title>Kontext im Harness verwalten</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Warum Agenten bei wachsendem Kontext schlechter werden (Context Rot) und wie Compaction und agentisches Gedächtnis dagegen helfen. Die Folge grenzt Zusammenfassen, Löschen und externe Notizen voneinander ab. Es sind drei neue Notizen entstanden.
+
+Reihe „Agenten und Harness“, Folge 4. Alle Folgen der Reihe:
+1. Was ist eigentlich ein Agent?
+2. Agent = Modell + Harness
+3. Context Engineering
+4. Kontext im Harness verwalten
+5. Agenten und ihre Werkzeuge
+6. Viele Agenten steuern
+7. Kontrolle im Harness
+8. Agenten messen und verbessern</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-kontext-im-harness-verwalten.mp3" length="5477860" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-kontext-im-harness-verwalten.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 07:52:11 +0200</pubDate>
+      <itunes:duration>00:11:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Agenten und Harness 2 · Agent = Modell + Harness</title>
+      <itunes:title>Agent = Modell + Harness</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge erklärt, warum ein KI-Agent aus Modell plus Harness besteht, was Harness Engineering bedeutet und wie es sich von Prompt- und Context Engineering abgrenzt. Außerdem geht es um die Sandbox als Schutzschicht und die Isolationsstufen Container, gVisor und microVM. Harness und Harness Engineering sind in einer Notiz zusammengefasst, die Sandbox hat eine eigene.
+
+Reihe „Agenten und Harness“, Folge 2. Alle Folgen der Reihe:
+1. Was ist eigentlich ein Agent?
+2. Agent = Modell + Harness
+3. Context Engineering
+4. Kontext im Harness verwalten
+5. Agenten und ihre Werkzeuge
+6. Viele Agenten steuern
+7. Kontrolle im Harness
+8. Agenten messen und verbessern</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-agent-modell-harness.mp3" length="2896416" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-agent-modell-harness.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 07:50:38 +0200</pubDate>
+      <itunes:duration>00:06:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Agenten und Harness 1 · Was ist eigentlich ein Agent?</title>
+      <itunes:title>Was ist eigentlich ein Agent?</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge erklärt, was einen KI-Agenten ausmacht und wie er sich von festen Workflows unterscheidet. Außerdem geht es um den unscharfen Begriff Agentic AI und darum, wann man was einsetzen sollte.
+
+Reihe „Agenten und Harness“, Folge 1. Alle Folgen der Reihe:
+1. Was ist eigentlich ein Agent?
+2. Agent = Modell + Harness
+3. Context Engineering
+4. Kontext im Harness verwalten
+5. Agenten und ihre Werkzeuge
+6. Viele Agenten steuern
+7. Kontrolle im Harness
+8. Agenten messen und verbessern</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-was-ist-eigentlich-ein-agent.mp3" length="2982821" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-was-ist-eigentlich-ein-agent.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 07:49:33 +0200</pubDate>
+      <itunes:duration>00:06:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Wissen ins Modell 1 · RAG oder Fine-Tuning?</title>
+      <itunes:title>RAG oder Fine-Tuning?</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Wie bringt man einem Sprachmodell eigenes Wissen bei? Die Folge erklärt RAG mit Embedding-Modellen und Vektordatenbanken, Fine-Tuning mit LoRA und eine Faustregel für die Entscheidung: RAG gibt Wissen, Fine-Tuning gibt Verhalten.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-rag-oder-fine-tuning.mp3" length="4484829" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-rag-oder-fine-tuning.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 07:48:36 +0200</pubDate>
+      <itunes:duration>00:09:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Verantwortung und Recht 2 · Recht und Risiken im Alltag</title>
+      <itunes:title>Recht und Risiken im Alltag</itunes:title>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge erklärt, wie das Urheberrecht mit KI-Training und KI-Ausgaben umgeht, was Deepfakes sind und wie sie rechtlich geregelt werden, und warum Shadow AI im Job entsteht. Zu jedem Begriff gibt es eine neue Notiz, dazu ein neues Thema „KI-Recht“.
+
+Reihe „Verantwortung und Recht“, Folge 2. Alle Folgen der Reihe:
+1. Vertrauen und Transparenz
+2. Recht und Risiken im Alltag</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-recht-und-risiken-im-alltag.mp3" length="4388643" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-recht-und-risiken-im-alltag.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 15:33:28 +0200</pubDate>
+      <itunes:duration>00:09:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Verantwortung und Recht 1 · Vertrauen und Transparenz</title>
+      <itunes:title>Vertrauen und Transparenz</itunes:title>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge erklärt, warum große KI-Modelle Black Boxes sind, wie Explainable AI mit Verfahren wie LIME und SHAP Entscheidungen nachvollziehbar macht und wie Responsible AI als Rahmen aus Fairness, Verantwortung und Regulierung (NIST, EU AI Act) darum herum aufgebaut ist.
+
+Reihe „Verantwortung und Recht“, Folge 1. Alle Folgen der Reihe:
+1. Vertrauen und Transparenz
+2. Recht und Risiken im Alltag</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-vertrauen-und-transparenz.mp3" length="3498721" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-vertrauen-und-transparenz.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 15:24:55 +0200</pubDate>
+      <itunes:duration>00:07:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>KI-Sicherheit 1 · Angriffe und Schutz</title>
+      <itunes:title>Angriffe und Schutz</itunes:title>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge erklärt, wie Prompt Injection und Jailbreak Sprachmodelle und Agenten angreifen und worin sie sich unterscheiden. Dazu geht es um Guardrails, ihre Grenzen und warum harte technische Schranken wichtiger sind als Filter allein. Neu entstanden sind drei Notizen und das Thema KI-Sicherheit.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-angriffe-und-schutz.mp3" length="4211995" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-angriffe-und-schutz.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 15:22:39 +0200</pubDate>
+      <itunes:duration>00:08:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Agenten und Harness 8 · Agenten messen und verbessern</title>
+      <itunes:title>Agenten messen und verbessern</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge erklärt, wie man bei KI-Agenten mit Traces und Spans nachvollzieht, was sie getan haben, und wie Evals mit Gradern, mehreren Versuchen sowie pass@k und pass^k ihre Qualität und Zuverlässigkeit messen. Beide Notizen sind neu angelegt und mit den Agenten-Themen verknüpft.
+
+Reihe „Agenten und Harness“, Folge 8. Alle Folgen der Reihe:
+1. Was ist eigentlich ein Agent?
+2. Agent = Modell + Harness
+3. Context Engineering
+4. Kontext im Harness verwalten
+5. Agenten und ihre Werkzeuge
+6. Viele Agenten steuern
+7. Kontrolle im Harness
+8. Agenten messen und verbessern</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-agenten-messen-und-verbessern.mp3" length="5555621" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-agenten-messen-und-verbessern.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 15:20:15 +0200</pubDate>
+      <itunes:duration>00:11:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Agenten und Harness 7 · Kontrolle im Harness</title>
+      <itunes:title>Kontrolle im Harness</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Wie ein Harness einen KI-Agenten kontrolliert: Berechtigungen legen fest, was erlaubt ist, Hooks erzwingen Regeln als Code, Menschen geben nur heikle Aktionen frei, und Verifikationsschleifen prüfen das Ergebnis objektiv. Die Folge zeigt, wie die vier Mechanismen mit der Sandbox zusammenspielen.
+
+Reihe „Agenten und Harness“, Folge 7. Alle Folgen der Reihe:
+1. Was ist eigentlich ein Agent?
+2. Agent = Modell + Harness
+3. Context Engineering
+4. Kontext im Harness verwalten
+5. Agenten und ihre Werkzeuge
+6. Viele Agenten steuern
+7. Kontrolle im Harness
+8. Agenten messen und verbessern</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-kontrolle-im-harness.mp3" length="5539676" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-kontrolle-im-harness.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 15:17:21 +0200</pubDate>
+      <itunes:duration>00:11:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Agenten und Harness 6 · Viele Agenten steuern</title>
+      <itunes:title>Viele Agenten steuern</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge erklärt, wie mehrere KI-Agenten zusammenarbeiten: Multi-Agenten-Systeme, Orchestrierung und Sub-Agenten, samt Kosten, Mustern und der Gegenposition zu parallelen Agenten. Es sind drei neue Notizen entstanden.
+
+Reihe „Agenten und Harness“, Folge 6. Alle Folgen der Reihe:
+1. Was ist eigentlich ein Agent?
+2. Agent = Modell + Harness
+3. Context Engineering
+4. Kontext im Harness verwalten
+5. Agenten und ihre Werkzeuge
+6. Viele Agenten steuern
+7. Kontrolle im Harness
+8. Agenten messen und verbessern</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-viele-agenten-steuern.mp3" length="3766749" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-viele-agenten-steuern.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 15:15:57 +0200</pubDate>
+      <itunes:duration>00:07:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Modelle verstehen 4 · Modelle klein und schnell machen</title>
+      <itunes:title>Modelle klein und schnell machen</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge erklärt, wie man große Sprachmodelle verkleinert: Quantisierung speichert die Gewichte mit weniger Bits, Distillation lässt ein kleines Schülermodell vom großen Lehrer lernen. Der Schwerpunkt liegt auf der Abgrenzung der beiden Verfahren und auf der Praxis.
+
+Reihe „Modelle verstehen“, Folge 4. Alle Folgen der Reihe:
+1. Die Landkarte der KI
+2. Wie Modelle Inhalte erzeugen
+3. Modellfamilien heute
+4. Modelle klein und schnell machen</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-modelle-klein-und-schnell-machen.mp3" length="3486248" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-modelle-klein-und-schnell-machen.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 07:52:20 +0200</pubDate>
+      <itunes:duration>00:07:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Modelle verstehen 3 · Modellfamilien heute</title>
+      <itunes:title>Modellfamilien heute</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge ordnet vier Achsen heutiger Sprachmodelle ein: Reasoning-Modelle (Denken zur Laufzeit), Mixture of Experts (Architektur), kleine Sprachmodelle (Hardwarebedarf) und Open-Weight-Modelle (Verfügbarkeit und Lizenz). Dabei werden Abgrenzungen und häufige Irrtümer geklärt.
+
+Reihe „Modelle verstehen“, Folge 3. Alle Folgen der Reihe:
+1. Die Landkarte der KI
+2. Wie Modelle Inhalte erzeugen
+3. Modellfamilien heute
+4. Modelle klein und schnell machen</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-modellfamilien-heute.mp3" length="3806876" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-modellfamilien-heute.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 07:35:41 +0200</pubDate>
+      <itunes:duration>00:07:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Modelle verstehen 2 · Wie Modelle Inhalte erzeugen</title>
+      <itunes:title>Wie Modelle Inhalte erzeugen</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge erklärt, wie generative Modelle Inhalte erzeugen: vom Transformer über Sprachmodelle bis zu Diffusionsmodellen, GANs und multimodalen Modellen. Dabei geht es vor allem um die Abgrenzung der Verfahren. Zu allen fünf Begriffen sind neue Notizen entstanden.
+
+Reihe „Modelle verstehen“, Folge 2. Alle Folgen der Reihe:
+1. Die Landkarte der KI
+2. Wie Modelle Inhalte erzeugen
+3. Modellfamilien heute
+4. Modelle klein und schnell machen</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-wie-modelle-inhalte-erzeugen.mp3" length="5952676" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-wie-modelle-inhalte-erzeugen.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 07:33:08 +0200</pubDate>
+      <itunes:duration>00:12:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Modelle verstehen 1 · Die Landkarte der KI</title>
+      <itunes:title>Die Landkarte der KI</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge ordnet die Grundbegriffe der KI wie eine Matrjoschka: Künstliche Intelligenz, Machine Learning, Deep Learning und generative KI, dazu das Foundation Model als wiederverwendbares Fundament. Es sind fünf Notizen und das neue Thema KI-Grundlagen entstanden.
+
+Reihe „Modelle verstehen“, Folge 1. Alle Folgen der Reihe:
+1. Die Landkarte der KI
+2. Wie Modelle Inhalte erzeugen
+3. Modellfamilien heute
+4. Modelle klein und schnell machen</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-die-landkarte-der-ki.mp3" length="4829468" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-die-landkarte-der-ki.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 07:30:07 +0200</pubDate>
+      <itunes:duration>00:10:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Agenten und Harness 3 · Context Engineering</title>
+      <itunes:title>Context Engineering</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Was Context Engineering ist, warum bei KI-Modellen weniger Kontext oft besser ist und wie es sich von Prompt Engineering unterscheidet. Dazu die vier Strategien Schreiben, Auswählen, Komprimieren und Isolieren.
+
+Reihe „Agenten und Harness“, Folge 3. Alle Folgen der Reihe:
+1. Was ist eigentlich ein Agent?
+2. Agent = Modell + Harness
+3. Context Engineering
+4. Kontext im Harness verwalten
+5. Agenten und ihre Werkzeuge
+6. Viele Agenten steuern
+7. Kontrolle im Harness
+8. Agenten messen und verbessern</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261002-context-engineering.mp3" length="2708635" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261002-context-engineering.mp3</guid>
+      <pubDate>Fri, 02 Oct 2026 21:58:56 +0200</pubDate>
+      <itunes:duration>00:05:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
