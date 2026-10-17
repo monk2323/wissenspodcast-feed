@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Andys Wissenspodcast</title>
+    <link>https://monk2323.github.io/wissenspodcast-feed/</link>
+    <description>Persönliche Wissensdatenbank als Podcast: Konzepte aus KI und Technik, recherchiert und erklärt.</description>
+    <language>de-de</language>
+    <lastBuildDate>Sat, 17 Oct 2026 07:12:49 +0000</lastBuildDate>
+    <itunes:author>Andy</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Vom Token zum Agenten 27 · Datenabfluss und die Lethal Trifecta</title>
+      <itunes:title>Datenabfluss und die Lethal Trifecta</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Private Daten, fremde Inhalte und Kommunikation nach außen: wie Daten abfließen und was Tool Poisoning ist.
+
+Staffel 6 · Was kann schiefgehen?: Welche neuen Risiken entstehen, wenn KI liest, schreibt und handelt?
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-datenabfluss-und-die-lethal-trifecta.mp3" length="3558828" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-datenabfluss-und-die-lethal-trifecta.mp3</guid>
+      <pubDate>Sat, 17 Oct 2026 09:12:45 +0200</pubDate>
+      <itunes:duration>00:07:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 26 · Prompt Injection</title>
+      <itunes:title>Prompt Injection</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Versteckte Anweisungen in fremden Inhalten, direkt und indirekt, die Abgrenzung zum Jailbreak und warum das so schwer abzuwehren ist.
+
+Staffel 6 · Was kann schiefgehen?: Welche neuen Risiken entstehen, wenn KI liest, schreibt und handelt?
+
+Gehört zum Kernpfad – den 19 Folgen für alle, die wenig Zeit haben.
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-prompt-injection.mp3" length="4041304" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-prompt-injection.mp3</guid>
+      <pubDate>Sat, 17 Oct 2026 09:10:59 +0200</pubDate>
+      <itunes:duration>00:08:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 25 · Coding-Agenten im Alltag</title>
+      <itunes:title>Coding-Agenten im Alltag</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Autonomiegrade von der Autovervollständigung bis zum Agenten, was ein Coding-Agent darf und was Computer Use ist.
+
+Staffel 5 · Vom Chatbot zum Agenten: Wie wird aus einem Modell, das antwortet, ein Agent, der handelt?
+
+Gehört zum Kernpfad – den 19 Folgen für alle, die wenig Zeit haben.
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-coding-agenten-im-alltag.mp3" length="3245856" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-coding-agenten-im-alltag.mp3</guid>
+      <pubDate>Sat, 17 Oct 2026 09:09:08 +0200</pubDate>
+      <itunes:duration>00:06:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 24 · MCP – der Standardstecker für Werkzeuge</title>
+      <itunes:title>MCP – der Standardstecker für Werkzeuge</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Das Model Context Protocol: Client, Server und Werkzeuge, die erst bei Bedarf geladen werden.
+
+Staffel 5 · Vom Chatbot zum Agenten: Wie wird aus einem Modell, das antwortet, ein Agent, der handelt?
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-mcp-der-standardstecker-fuer-werkzeuge.mp3" length="3381810" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-mcp-der-standardstecker-fuer-werkzeuge.mp3</guid>
+      <pubDate>Sat, 17 Oct 2026 09:07:30 +0200</pubDate>
+      <itunes:duration>00:07:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 23 · Workflow oder Agent?</title>
+      <itunes:title>Workflow oder Agent?</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Feste Abläufe gegen eigene Entscheidungen des Modells – und die Regel: so einfach wie möglich.
+
+Staffel 5 · Vom Chatbot zum Agenten: Wie wird aus einem Modell, das antwortet, ein Agent, der handelt?
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-workflow-oder-agent.mp3" length="3058652" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-workflow-oder-agent.mp3</guid>
+      <pubDate>Sat, 17 Oct 2026 09:05:52 +0200</pubDate>
+      <itunes:duration>00:06:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 22 · Der Agent Loop</title>
+      <itunes:title>Der Agent Loop</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Schleife aus Fragen, Ausführen und Beobachten, Abbruchbedingungen und die Formel: ein Modell in einer Schleife mit Werkzeugen.
+
+Staffel 5 · Vom Chatbot zum Agenten: Wie wird aus einem Modell, das antwortet, ein Agent, der handelt?
+
+Gehört zum Kernpfad – den 19 Folgen für alle, die wenig Zeit haben.
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-der-agent-loop.mp3" length="3210710" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-der-agent-loop.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 09:15:45 +0200</pubDate>
+      <itunes:duration>00:06:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 21 · Tool Use – das Modell ruft Funktionen auf</title>
+      <itunes:title>Tool Use – das Modell ruft Funktionen auf</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Werkzeugliste, strukturierte Aufrufe und warum immer dein Code ausführt, nie das Modell.
+
+Staffel 5 · Vom Chatbot zum Agenten: Wie wird aus einem Modell, das antwortet, ein Agent, der handelt?
+
+Gehört zum Kernpfad – den 19 Folgen für alle, die wenig Zeit haben.
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-tool-use-das-modell-ruft-funktionen-auf.mp3" length="4027891" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-tool-use-das-modell-ruft-funktionen-auf.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 09:13:04 +0200</pubDate>
+      <itunes:duration>00:08:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 20 · Fine-Tuning und seine Grenzen</title>
+      <itunes:title>Fine-Tuning und seine Grenzen</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Wann Nachtrainieren hilft, wann nicht – und warum RAG Wissen gibt und Fine-Tuning Verhalten.
+
+Staffel 4 · Eigenes Wissen ins Modell: Wie bekommt das Modell unser Wissen – und welcher Weg passt wann?
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-fine-tuning-und-seine-grenzen.mp3" length="3550565" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-fine-tuning-und-seine-grenzen.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 09:11:19 +0200</pubDate>
+      <itunes:duration>00:07:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 19 · RAG Schritt für Schritt</title>
+      <itunes:title>RAG Schritt für Schritt</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Chunking, Vektordatenbank, hybride Suche, Reranking und Quellenangaben – und wie man misst, ob RAG trifft.
+
+Staffel 4 · Eigenes Wissen ins Modell: Wie bekommt das Modell unser Wissen – und welcher Weg passt wann?
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-rag-schritt-fuer-schritt.mp3" length="3779040" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-rag-schritt-fuer-schritt.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 09:09:34 +0200</pubDate>
+      <itunes:duration>00:07:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 18 · Embeddings – Suchen nach Bedeutung</title>
+      <itunes:title>Embeddings – Suchen nach Bedeutung</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Text als Vektor, semantische Nähe und Ähnlichkeitssuche mit Embedding-Modellen.
+
+Staffel 4 · Eigenes Wissen ins Modell: Wie bekommt das Modell unser Wissen – und welcher Weg passt wann?
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-embeddings-suchen-nach-bedeutung.mp3" length="3263532" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-embeddings-suchen-nach-bedeutung.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 09:07:45 +0200</pubDate>
+      <itunes:duration>00:06:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 17 · Das Wissensproblem und drei Wege</title>
+      <itunes:title>Das Wissensproblem und drei Wege</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Warum das Modell unsere Daten nicht kennt und die drei Wege: alles in den Kontext, RAG und Fine-Tuning.
+
+Staffel 4 · Eigenes Wissen ins Modell: Wie bekommt das Modell unser Wissen – und welcher Weg passt wann?
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-das-wissensproblem-und-drei-wege.mp3" length="3455720" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-das-wissensproblem-und-drei-wege.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 09:06:01 +0200</pubDate>
+      <itunes:duration>00:07:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 16 · Welches Modell nehme ich?</title>
+      <itunes:title>Welches Modell nehme ich?</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Reasoning-Modelle, große und kleine Modelle, proprietär oder Open-Weight – und entscheiden mit eigenen Evals.
+
+Staffel 3 · Vom Chat zur API: Wie nutze ich ein Modell aus meinem Code – und was heißt das für meine KI-Werkzeuge?
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-welches-modell-nehme-ich.mp3" length="3031393" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-welches-modell-nehme-ich.mp3</guid>
+      <pubDate>Thu, 15 Oct 2026 20:09:33 +0200</pubDate>
+      <itunes:duration>00:06:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 15 · Testen, wenn nichts deterministisch ist: Evals</title>
+      <itunes:title>Testen, wenn nichts deterministisch ist: Evals</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Evals als Testsuite für Verhalten, die wichtigsten Bewertungsarten und Regressionen messen wie in der CI.
+
+Staffel 3 · Vom Chat zur API: Wie nutze ich ein Modell aus meinem Code – und was heißt das für meine KI-Werkzeuge?
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-testen-wenn-nichts-deterministisch-ist-evals.mp3" length="3285622" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-testen-wenn-nichts-deterministisch-ist-evals.mp3</guid>
+      <pubDate>Thu, 15 Oct 2026 20:08:00 +0200</pubDate>
+      <itunes:duration>00:06:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 14 · Strukturierte Ausgaben – das Modell als Funktion</title>
+      <itunes:title>Strukturierte Ausgaben – das Modell als Funktion</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>JSON-Schema und Structured Outputs: wie ein Modellaufruf zur typisierten Funktion im eigenen Code wird.
+
+Staffel 3 · Vom Chat zur API: Wie nutze ich ein Modell aus meinem Code – und was heißt das für meine KI-Werkzeuge?
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-strukturierte-ausgaben-das-modell-als-funktion.mp3" length="3056378" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-strukturierte-ausgaben-das-modell-als-funktion.mp3</guid>
+      <pubDate>Thu, 15 Oct 2026 20:06:19 +0200</pubDate>
+      <itunes:duration>00:06:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 12 · Das Kontextfenster</title>
+      <itunes:title>Das Kontextfenster</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Wie viel ein Modell auf einmal sieht, was das kostet, warum mehr nicht besser ist und was Prompt Caching bringt.
+
+Staffel 3 · Vom Chat zur API: Wie nutze ich ein Modell aus meinem Code – und was heißt das für meine KI-Werkzeuge?
+
+Gehört zum Kernpfad – den 19 Folgen für alle, die wenig Zeit haben.
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-das-kontextfenster.mp3" length="2882394" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-das-kontextfenster.mp3</guid>
+      <pubDate>Thu, 15 Oct 2026 20:04:48 +0200</pubDate>
+      <itunes:duration>00:06:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 11 · Was ein Chatbot wirklich ist</title>
+      <itunes:title>Was ein Chatbot wirklich ist</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Modell und Produkt, die zustandslose API, der Nachrichtenverlauf als Gedächtnis und die Rollen im Gespräch.
+
+Staffel 3 · Vom Chat zur API: Wie nutze ich ein Modell aus meinem Code – und was heißt das für meine KI-Werkzeuge?
+
+Gehört zum Kernpfad – den 19 Folgen für alle, die wenig Zeit haben.
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-was-ein-chatbot-wirklich-ist.mp3" length="3718180" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-was-ein-chatbot-wirklich-ist.mp3</guid>
+      <pubDate>Thu, 15 Oct 2026 20:03:30 +0200</pubDate>
+      <itunes:duration>00:07:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 33 · Gedächtnis und Skills</title>
+      <itunes:title>Gedächtnis und Skills</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Kurz- und Langzeitgedächtnis, Projektdateien für Agenten, Skills – und manipulierte Regeldateien als Risiko.
+
+Staffel 7 · Der Harness: Was macht einen Agenten zuverlässig und sicher?
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-gedaechtnis-und-skills.mp3" length="3632734" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-gedaechtnis-und-skills.mp3</guid>
+      <pubDate>Thu, 15 Oct 2026 20:01:44 +0200</pubDate>
+      <itunes:duration>00:07:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 13 · Prompting für Entwickler</title>
+      <itunes:title>Prompting für Entwickler</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Systemprompt, Zero- und Few-Shot, Chain of Thought und der Prompt als Spezifikation.
+
+Staffel 3 · Vom Chat zur API: Wie nutze ich ein Modell aus meinem Code – und was heißt das für meine KI-Werkzeuge?
+
+Gehört zum Kernpfad – den 19 Folgen für alle, die wenig Zeit haben.
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-prompting-fuer-entwickler.mp3" length="3805537" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-prompting-fuer-entwickler.mp3</guid>
+      <pubDate>Thu, 15 Oct 2026 07:15:13 +0200</pubDate>
+      <itunes:duration>00:07:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 10 · Halluzinationen</title>
+      <itunes:title>Halluzinationen</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Warum Sprachmodelle plausibel Falsches erzeugen, erfundene APIs und Pakete und welche Gegenmittel es gibt.
+
+Staffel 2 · Wie ein Sprachmodell tickt: Wie funktioniert ein Sprachmodell – und warum verhält es sich manchmal so seltsam?
+
+Gehört zum Kernpfad – den 19 Folgen für alle, die wenig Zeit haben.
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-halluzinationen.mp3" length="3482967" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-halluzinationen.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 16:31:47 +0200</pubDate>
+      <itunes:duration>00:07:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 9 · Vom Rohmodell zum Assistenten</title>
+      <itunes:title>Vom Rohmodell zum Assistenten</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Pre-Training und Base Model, Instruction Tuning, bestärkendes Lernen aus Bewertungen und der Knowledge Cutoff.
+
+Staffel 2 · Wie ein Sprachmodell tickt: Wie funktioniert ein Sprachmodell – und warum verhält es sich manchmal so seltsam?
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-vom-rohmodell-zum-assistenten.mp3" length="3607397" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-vom-rohmodell-zum-assistenten.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 16:12:06 +0200</pubDate>
+      <itunes:duration>00:07:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 8 · Transformer und Attention</title>
+      <itunes:title>Transformer und Attention</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Architektur hinter allen Sprachmodellen: Attention, Parallelität und Tokens als Zahlenreihen – ohne Mathe.
+
+Staffel 2 · Wie ein Sprachmodell tickt: Wie funktioniert ein Sprachmodell – und warum verhält es sich manchmal so seltsam?
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-transformer-und-attention.mp3" length="3162721" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-transformer-und-attention.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 16:10:25 +0200</pubDate>
+      <itunes:duration>00:06:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 7 · Temperatur und Sampling – warum KI nie gleich antwortet</title>
+      <itunes:title>Temperatur und Sampling – warum KI nie gleich antwortet</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Sampling, Temperatur und Top-p, warum selbst Temperatur null nicht garantiert reproduzierbar ist und was das für Tests heißt.
+
+Staffel 2 · Wie ein Sprachmodell tickt: Wie funktioniert ein Sprachmodell – und warum verhält es sich manchmal so seltsam?
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-temperatur-und-sampling-warum-ki-nie-gleich-antwortet.mp3" length="2613249" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-temperatur-und-sampling-warum-ki-nie-gleich-antwortet.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 16:08:55 +0200</pubDate>
+      <itunes:duration>00:05:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 6 · Next-Token-Prediction – der ganze Trick</title>
+      <itunes:title>Next-Token-Prediction – der ganze Trick</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Wie ein Sprachmodell Text Token für Token erzeugt, warum das mehr ist als Autovervollständigung und warum es nichts nachschlägt.
+
+Staffel 2 · Wie ein Sprachmodell tickt: Wie funktioniert ein Sprachmodell – und warum verhält es sich manchmal so seltsam?
+
+Gehört zum Kernpfad – den 19 Folgen für alle, die wenig Zeit haben.
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-next-token-prediction-der-ganze-trick.mp3" length="3219569" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-next-token-prediction-der-ganze-trick.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 16:07:45 +0200</pubDate>
+      <itunes:duration>00:06:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 5 · Tokens – die Währung der KI</title>
+      <itunes:title>Tokens – die Währung der KI</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Was Tokens sind, wie Text zerlegt wird und warum Kosten, Limits und Buchstabenzählen davon abhängen.
+
+Staffel 2 · Wie ein Sprachmodell tickt: Wie funktioniert ein Sprachmodell – und warum verhält es sich manchmal so seltsam?
+
+Gehört zum Kernpfad – den 19 Folgen für alle, die wenig Zeit haben.
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-tokens-die-waehrung-der-ki.mp3" length="2736486" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-tokens-die-waehrung-der-ki.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 16:06:17 +0200</pubDate>
+      <itunes:duration>00:05:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 4 · Die Familie der generativen Modelle</title>
+      <itunes:title>Die Familie der generativen Modelle</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Sprachmodelle, Diffusionsmodelle, GANs und multimodale Modelle im Überblick.
+
+Staffel 1 · Was ist KI überhaupt?: Was ist KI – und was ist an generativer KI neu?
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-die-familie-der-generativen-modelle.mp3" length="2154923" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-die-familie-der-generativen-modelle.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 13:56:29 +0200</pubDate>
+      <itunes:duration>00:04:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 3 · Klassisches ML oder generative KI?</title>
+      <itunes:title>Klassisches ML oder generative KI?</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Entscheiden gegen Erzeugen, Foundation Models und warum klassisches Machine Learning für klare Aufgaben oft die bessere Wahl ist.
+
+Staffel 1 · Was ist KI überhaupt?: Was ist KI – und was ist an generativer KI neu?
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-klassisches-ml-oder-generative-ki.mp3" length="2251692" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-klassisches-ml-oder-generative-ki.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 13:55:31 +0200</pubDate>
+      <itunes:duration>00:04:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 2 · Neuronale Netze und Deep Learning</title>
+      <itunes:title>Neuronale Netze und Deep Learning</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Neuronen und Schichten als Kette von Funktionen, warum Deep Learning Merkmale selbst findet und warum das Modell eine Black Box ist.
+
+Staffel 1 · Was ist KI überhaupt?: Was ist KI – und was ist an generativer KI neu?
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-neuronale-netze-und-deep-learning.mp3" length="2183148" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-neuronale-netze-und-deep-learning.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 13:55:01 +0200</pubDate>
+      <itunes:duration>00:04:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 1 · Regeln schreiben oder Regeln lernen lassen</title>
+      <itunes:title>Regeln schreiben oder Regeln lernen lassen</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>KI als Sammelbegriff, Regeln schreiben gegen Machine Learning, Modell und Gewichte, Training und Inferenz, Overfitting.
+
+Staffel 1 · Was ist KI überhaupt?: Was ist KI – und was ist an generativer KI neu?
+
+Gehört zum Kernpfad – den 19 Folgen für alle, die wenig Zeit haben.
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-regeln-schreiben-oder-regeln-lernen-lassen.mp3" length="3629301" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-regeln-schreiben-oder-regeln-lernen-lassen.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 13:54:33 +0200</pubDate>
+      <itunes:duration>00:07:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vom Token zum Agenten 0 · Trailer: Worum es geht</title>
+      <itunes:title>Trailer: Worum es geht</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <description>Wer spricht, für wen die Reihe ist, die acht Staffeln als Landkarte, der Kernpfad und das Ticket, das uns durch die Reihe begleitet.
+
+Gehört zum Kernpfad – den 19 Folgen für alle, die wenig Zeit haben.
+
+„Vom Token zum Agenten“ – KI für Entwickler – von den Grundlagen bis zum Harness.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261014-trailer-worum-es-geht.mp3" length="1376722" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261014-trailer-worum-es-geht.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 13:53:47 +0200</pubDate>
+      <itunes:duration>00:02:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Testfolge Radio-Edition: Tool Use – wie ein Sprachmodell Funktionen aufruft</title>
+      <itunes:title>Testfolge Radio-Edition: Tool Use – wie ein Sprachmodell Funktionen aufruft</itunes:title>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Vergleichsfolge im Stil von Googles AI-Talk-Radio-Vorlage: Skript von Claude, jeder Redebeitrag einzeln mit Regieanweisung vertont (Gemini 3.8 Flash TTS, bezahlte Stufe), Anrufer Jonas mit Telefonfilter, Intro- und Outro-Musik von Lyria. Inhalt: Folge 22 aus dem Konzept für Entwickler – warum das Modell nie selbst etwas ausführt, wie Werkzeuge beschrieben werden und warum Werkzeugaufrufe wie Eingaben von außen zu behandeln sind.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261013-test-radio-edition-tool-use.mp3" length="8081283" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261013-test-radio-edition-tool-use.mp3</guid>
+      <pubDate>Tue, 13 Oct 2026 14:36:44 +0200</pubDate>
+      <itunes:duration>00:08:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Agenten und Harness 5 · Agenten und ihre Werkzeuge</title>
+      <itunes:title>Agenten und ihre Werkzeuge</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Wie Agenten mit der Außenwelt arbeiten: Tool Use und Function Calling als Grundmechanismus, MCP als Standard zum Anbinden von Werkzeugen und Computer Use als Bedienung des Bildschirms per Screenshot und Klick. Die Folge arbeitet die Abgrenzung der drei Begriffe und die Sicherheitsrisiken heraus.
+
+Reihe „Agenten und Harness“, Folge 5. Alle Folgen der Reihe:
+1. Was ist eigentlich ein Agent?
+2. Agent = Modell + Harness
+3. Context Engineering
+4. Kontext im Harness verwalten
+5. Agenten und ihre Werkzeuge
+6. Viele Agenten steuern
+7. Kontrolle im Harness
+8. Agenten messen und verbessern</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-agenten-und-ihre-werkzeuge.mp3" length="3863138" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-agenten-und-ihre-werkzeuge.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 07:53:53 +0200</pubDate>
+      <itunes:duration>00:08:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Agenten und Harness 4 · Kontext im Harness verwalten</title>
+      <itunes:title>Kontext im Harness verwalten</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Warum Agenten bei wachsendem Kontext schlechter werden (Context Rot) und wie Compaction und agentisches Gedächtnis dagegen helfen. Die Folge grenzt Zusammenfassen, Löschen und externe Notizen voneinander ab. Es sind drei neue Notizen entstanden.
+
+Reihe „Agenten und Harness“, Folge 4. Alle Folgen der Reihe:
+1. Was ist eigentlich ein Agent?
+2. Agent = Modell + Harness
+3. Context Engineering
+4. Kontext im Harness verwalten
+5. Agenten und ihre Werkzeuge
+6. Viele Agenten steuern
+7. Kontrolle im Harness
+8. Agenten messen und verbessern</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-kontext-im-harness-verwalten.mp3" length="5477860" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-kontext-im-harness-verwalten.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 07:52:11 +0200</pubDate>
+      <itunes:duration>00:11:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Agenten und Harness 2 · Agent = Modell + Harness</title>
+      <itunes:title>Agent = Modell + Harness</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge erklärt, warum ein KI-Agent aus Modell plus Harness besteht, was Harness Engineering bedeutet und wie es sich von Prompt- und Context Engineering abgrenzt. Außerdem geht es um die Sandbox als Schutzschicht und die Isolationsstufen Container, gVisor und microVM. Harness und Harness Engineering sind in einer Notiz zusammengefasst, die Sandbox hat eine eigene.
+
+Reihe „Agenten und Harness“, Folge 2. Alle Folgen der Reihe:
+1. Was ist eigentlich ein Agent?
+2. Agent = Modell + Harness
+3. Context Engineering
+4. Kontext im Harness verwalten
+5. Agenten und ihre Werkzeuge
+6. Viele Agenten steuern
+7. Kontrolle im Harness
+8. Agenten messen und verbessern</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-agent-modell-harness.mp3" length="2896416" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-agent-modell-harness.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 07:50:38 +0200</pubDate>
+      <itunes:duration>00:06:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Agenten und Harness 1 · Was ist eigentlich ein Agent?</title>
+      <itunes:title>Was ist eigentlich ein Agent?</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge erklärt, was einen KI-Agenten ausmacht und wie er sich von festen Workflows unterscheidet. Außerdem geht es um den unscharfen Begriff Agentic AI und darum, wann man was einsetzen sollte.
+
+Reihe „Agenten und Harness“, Folge 1. Alle Folgen der Reihe:
+1. Was ist eigentlich ein Agent?
+2. Agent = Modell + Harness
+3. Context Engineering
+4. Kontext im Harness verwalten
+5. Agenten und ihre Werkzeuge
+6. Viele Agenten steuern
+7. Kontrolle im Harness
+8. Agenten messen und verbessern</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-was-ist-eigentlich-ein-agent.mp3" length="2982821" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-was-ist-eigentlich-ein-agent.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 07:49:33 +0200</pubDate>
+      <itunes:duration>00:06:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Wissen ins Modell 1 · RAG oder Fine-Tuning?</title>
+      <itunes:title>RAG oder Fine-Tuning?</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Wie bringt man einem Sprachmodell eigenes Wissen bei? Die Folge erklärt RAG mit Embedding-Modellen und Vektordatenbanken, Fine-Tuning mit LoRA und eine Faustregel für die Entscheidung: RAG gibt Wissen, Fine-Tuning gibt Verhalten.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-rag-oder-fine-tuning.mp3" length="4484829" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-rag-oder-fine-tuning.mp3</guid>
+      <pubDate>Thu, 08 Oct 2026 07:48:36 +0200</pubDate>
+      <itunes:duration>00:09:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Verantwortung und Recht 2 · Recht und Risiken im Alltag</title>
+      <itunes:title>Recht und Risiken im Alltag</itunes:title>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge erklärt, wie das Urheberrecht mit KI-Training und KI-Ausgaben umgeht, was Deepfakes sind und wie sie rechtlich geregelt werden, und warum Shadow AI im Job entsteht. Zu jedem Begriff gibt es eine neue Notiz, dazu ein neues Thema „KI-Recht“.
+
+Reihe „Verantwortung und Recht“, Folge 2. Alle Folgen der Reihe:
+1. Vertrauen und Transparenz
+2. Recht und Risiken im Alltag</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-recht-und-risiken-im-alltag.mp3" length="4388643" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-recht-und-risiken-im-alltag.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 15:33:28 +0200</pubDate>
+      <itunes:duration>00:09:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Verantwortung und Recht 1 · Vertrauen und Transparenz</title>
+      <itunes:title>Vertrauen und Transparenz</itunes:title>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge erklärt, warum große KI-Modelle Black Boxes sind, wie Explainable AI mit Verfahren wie LIME und SHAP Entscheidungen nachvollziehbar macht und wie Responsible AI als Rahmen aus Fairness, Verantwortung und Regulierung (NIST, EU AI Act) darum herum aufgebaut ist.
+
+Reihe „Verantwortung und Recht“, Folge 1. Alle Folgen der Reihe:
+1. Vertrauen und Transparenz
+2. Recht und Risiken im Alltag</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-vertrauen-und-transparenz.mp3" length="3498721" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-vertrauen-und-transparenz.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 15:24:55 +0200</pubDate>
+      <itunes:duration>00:07:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>KI-Sicherheit 1 · Angriffe und Schutz</title>
+      <itunes:title>Angriffe und Schutz</itunes:title>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge erklärt, wie Prompt Injection und Jailbreak Sprachmodelle und Agenten angreifen und worin sie sich unterscheiden. Dazu geht es um Guardrails, ihre Grenzen und warum harte technische Schranken wichtiger sind als Filter allein. Neu entstanden sind drei Notizen und das Thema KI-Sicherheit.</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-angriffe-und-schutz.mp3" length="4211995" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-angriffe-und-schutz.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 15:22:39 +0200</pubDate>
+      <itunes:duration>00:08:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Agenten und Harness 8 · Agenten messen und verbessern</title>
+      <itunes:title>Agenten messen und verbessern</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge erklärt, wie man bei KI-Agenten mit Traces und Spans nachvollzieht, was sie getan haben, und wie Evals mit Gradern, mehreren Versuchen sowie pass@k und pass^k ihre Qualität und Zuverlässigkeit messen. Beide Notizen sind neu angelegt und mit den Agenten-Themen verknüpft.
+
+Reihe „Agenten und Harness“, Folge 8. Alle Folgen der Reihe:
+1. Was ist eigentlich ein Agent?
+2. Agent = Modell + Harness
+3. Context Engineering
+4. Kontext im Harness verwalten
+5. Agenten und ihre Werkzeuge
+6. Viele Agenten steuern
+7. Kontrolle im Harness
+8. Agenten messen und verbessern</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-agenten-messen-und-verbessern.mp3" length="5555621" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-agenten-messen-und-verbessern.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 15:20:15 +0200</pubDate>
+      <itunes:duration>00:11:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Agenten und Harness 7 · Kontrolle im Harness</title>
+      <itunes:title>Kontrolle im Harness</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Wie ein Harness einen KI-Agenten kontrolliert: Berechtigungen legen fest, was erlaubt ist, Hooks erzwingen Regeln als Code, Menschen geben nur heikle Aktionen frei, und Verifikationsschleifen prüfen das Ergebnis objektiv. Die Folge zeigt, wie die vier Mechanismen mit der Sandbox zusammenspielen.
+
+Reihe „Agenten und Harness“, Folge 7. Alle Folgen der Reihe:
+1. Was ist eigentlich ein Agent?
+2. Agent = Modell + Harness
+3. Context Engineering
+4. Kontext im Harness verwalten
+5. Agenten und ihre Werkzeuge
+6. Viele Agenten steuern
+7. Kontrolle im Harness
+8. Agenten messen und verbessern</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-kontrolle-im-harness.mp3" length="5539676" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-kontrolle-im-harness.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 15:17:21 +0200</pubDate>
+      <itunes:duration>00:11:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Agenten und Harness 6 · Viele Agenten steuern</title>
+      <itunes:title>Viele Agenten steuern</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge erklärt, wie mehrere KI-Agenten zusammenarbeiten: Multi-Agenten-Systeme, Orchestrierung und Sub-Agenten, samt Kosten, Mustern und der Gegenposition zu parallelen Agenten. Es sind drei neue Notizen entstanden.
+
+Reihe „Agenten und Harness“, Folge 6. Alle Folgen der Reihe:
+1. Was ist eigentlich ein Agent?
+2. Agent = Modell + Harness
+3. Context Engineering
+4. Kontext im Harness verwalten
+5. Agenten und ihre Werkzeuge
+6. Viele Agenten steuern
+7. Kontrolle im Harness
+8. Agenten messen und verbessern</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-viele-agenten-steuern.mp3" length="3766749" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-viele-agenten-steuern.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 15:15:57 +0200</pubDate>
+      <itunes:duration>00:07:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Modelle verstehen 4 · Modelle klein und schnell machen</title>
+      <itunes:title>Modelle klein und schnell machen</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge erklärt, wie man große Sprachmodelle verkleinert: Quantisierung speichert die Gewichte mit weniger Bits, Distillation lässt ein kleines Schülermodell vom großen Lehrer lernen. Der Schwerpunkt liegt auf der Abgrenzung der beiden Verfahren und auf der Praxis.
+
+Reihe „Modelle verstehen“, Folge 4. Alle Folgen der Reihe:
+1. Die Landkarte der KI
+2. Wie Modelle Inhalte erzeugen
+3. Modellfamilien heute
+4. Modelle klein und schnell machen</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-modelle-klein-und-schnell-machen.mp3" length="3486248" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-modelle-klein-und-schnell-machen.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 07:52:20 +0200</pubDate>
+      <itunes:duration>00:07:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Modelle verstehen 3 · Modellfamilien heute</title>
+      <itunes:title>Modellfamilien heute</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge ordnet vier Achsen heutiger Sprachmodelle ein: Reasoning-Modelle (Denken zur Laufzeit), Mixture of Experts (Architektur), kleine Sprachmodelle (Hardwarebedarf) und Open-Weight-Modelle (Verfügbarkeit und Lizenz). Dabei werden Abgrenzungen und häufige Irrtümer geklärt.
+
+Reihe „Modelle verstehen“, Folge 3. Alle Folgen der Reihe:
+1. Die Landkarte der KI
+2. Wie Modelle Inhalte erzeugen
+3. Modellfamilien heute
+4. Modelle klein und schnell machen</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-modellfamilien-heute.mp3" length="3806876" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-modellfamilien-heute.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 07:35:41 +0200</pubDate>
+      <itunes:duration>00:07:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Modelle verstehen 2 · Wie Modelle Inhalte erzeugen</title>
+      <itunes:title>Wie Modelle Inhalte erzeugen</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge erklärt, wie generative Modelle Inhalte erzeugen: vom Transformer über Sprachmodelle bis zu Diffusionsmodellen, GANs und multimodalen Modellen. Dabei geht es vor allem um die Abgrenzung der Verfahren. Zu allen fünf Begriffen sind neue Notizen entstanden.
+
+Reihe „Modelle verstehen“, Folge 2. Alle Folgen der Reihe:
+1. Die Landkarte der KI
+2. Wie Modelle Inhalte erzeugen
+3. Modellfamilien heute
+4. Modelle klein und schnell machen</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-wie-modelle-inhalte-erzeugen.mp3" length="5952676" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-wie-modelle-inhalte-erzeugen.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 07:33:08 +0200</pubDate>
+      <itunes:duration>00:12:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Modelle verstehen 1 · Die Landkarte der KI</title>
+      <itunes:title>Die Landkarte der KI</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Die Folge ordnet die Grundbegriffe der KI wie eine Matrjoschka: Künstliche Intelligenz, Machine Learning, Deep Learning und generative KI, dazu das Foundation Model als wiederverwendbares Fundament. Es sind fünf Notizen und das neue Thema KI-Grundlagen entstanden.
+
+Reihe „Modelle verstehen“, Folge 1. Alle Folgen der Reihe:
+1. Die Landkarte der KI
+2. Wie Modelle Inhalte erzeugen
+3. Modellfamilien heute
+4. Modelle klein und schnell machen</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261003-die-landkarte-der-ki.mp3" length="4829468" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261003-die-landkarte-der-ki.mp3</guid>
+      <pubDate>Sat, 03 Oct 2026 07:30:07 +0200</pubDate>
+      <itunes:duration>00:10:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Agenten und Harness 3 · Context Engineering</title>
+      <itunes:title>Context Engineering</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Was Context Engineering ist, warum bei KI-Modellen weniger Kontext oft besser ist und wie es sich von Prompt Engineering unterscheidet. Dazu die vier Strategien Schreiben, Auswählen, Komprimieren und Isolieren.
+
+Reihe „Agenten und Harness“, Folge 3. Alle Folgen der Reihe:
+1. Was ist eigentlich ein Agent?
+2. Agent = Modell + Harness
+3. Context Engineering
+4. Kontext im Harness verwalten
+5. Agenten und ihre Werkzeuge
+6. Viele Agenten steuern
+7. Kontrolle im Harness
+8. Agenten messen und verbessern</description>
+      <enclosure url="https://monk2323.github.io/wissenspodcast-feed/audio/20261002-context-engineering.mp3" length="2708635" type="audio/mpeg"/>
+      <guid isPermaLink="false">audio/20261002-context-engineering.mp3</guid>
+      <pubDate>Fri, 02 Oct 2026 21:58:56 +0200</pubDate>
+      <itunes:duration>00:05:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
